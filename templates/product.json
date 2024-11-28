@@ -34,6 +34,10 @@
           "type": "price",
           "settings": {}
         },
+        "rating_hAMReW": {
+          "type": "rating",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -104,6 +108,7 @@
         "title",
         "caption",
         "price",
+        "rating_hAMReW",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
